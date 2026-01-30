@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763893973657,
+      "tag": "0000_heavy_franklin_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1769754120976,
+      "tag": "0001_broad_bullseye",
+      "breakpoints": true
+    }
+  ]
+}
