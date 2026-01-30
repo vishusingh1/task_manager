@@ -1,7 +1,7 @@
 import axios, { type InternalAxiosRequestConfig } from "axios";
 
 export const axiosClient = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://task-manager-4vcm.onrender.com/api",
   headers: {
     "Content-Type": "application/json",
   },
